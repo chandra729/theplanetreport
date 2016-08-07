@@ -11,12 +11,12 @@
 $host='localhost';
 $dbname='orders';
 $username='root';
-$password='123456';
+$password='@Shekhar1985';
 
 echo "<body style='background-color:#99ccff'>";
 
 
-#echo "http://".$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI']."\n";
+echo "http://".$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI']."\n";
 
 
 
@@ -43,7 +43,7 @@ echo $e->getMessage();
 
 
 //bad query injectable and vulnerable to query stacking
-$stmt = $dbh->query("SELECT * FROM two  where orderNumber = ".$_GET['id']);
+$stmt = $dbh->query("SELECT * FROM three  where orderNumber = ".$_GET['id']);
 //print_r($_GET);
 if(isset($_GET['id'])){
 $stmt->execute();
