@@ -21,11 +21,11 @@ echo "<h3>";
 // 24-hour format of an hour without leading zeros (0 through 23)
 $Hour = date('G');
 if ( $Hour >= 5 && $Hour <= 11 ) {
-    echo "Good Morning,".$name;
+    echo "Good Morning,";
 } else if ( $Hour >= 12 && $Hour <= 18 ) {
-    echo "Good Afternoon,".$name ;
+    echo "Good Afternoon,";
 } else if ( $Hour >= 19 || $Hour <= 4 ) {
-    echo "Good Evening,".$name ;
+    echo "Good Evening,";
 }
 
 echo "</h3>";
@@ -37,7 +37,7 @@ echo "</h4>"
 <?php include('mainheadlines.php');
 
 echo "</br>";
-echo "<a href='http://theplanetreports.com'>Homepage <br> </a>";
+echo "<a href='http://www.theplanetreports.com'>Homepage <br> </a>";
 ?>
 </div><!--contentleft---->
 <?php include('sidebar.php');?>
@@ -45,6 +45,8 @@ echo "<a href='http://theplanetreports.com'>Homepage <br> </a>";
 </div><!--Content-->
 </div> <!--container-->
 <?php include('footer.php');?>
+
+
 
 
 

@@ -1,6 +1,16 @@
-<html> 
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"> 
 <head>
-<title>Welcome to theplanetreports.com</title>
+
+<title>Welcome to theplanetreports.com|Home ofLatest News,worldnews,sports, and many more </title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<meta name="description" content="theplanetreports.com is your source for latest Breaking News,World News,Sports,Cricket and many more"/>
+
+<meta name="author" content="theplanetreports.com">
+
+<meta name="keywords" content="News,latest news,breaking news,today news,world news,sports news,subscription,buy,transfer"/>
 
 <link rel="stylesheet" type="text/css" href="style.css" />
 
