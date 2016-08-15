@@ -16,7 +16,7 @@ $password='@Shekhar1985';
 echo "<body style='background-color:#99ccff'>";
 
 
-echo "http://".$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI']."\n";
+//echo "http://".$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI']."\n";
 
 
 
