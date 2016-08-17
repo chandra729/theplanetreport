@@ -44,10 +44,10 @@ Enter any website you want to visit: <input type="text" name="someUserInput"><br
    <ul>
   
 
- <li><a href="http://www.nytimes.com/"target="_blank" >NYTimes </a></li>
+ <li><a href="http://www.nytimes.com/" target="_blank" >NYTimes </a></li>
   <li><a href="http://theplanetreports.com/redirect.php?url=http://theplanetreports.com/hack.php" target="_blank" >BBC </a></li>
-  <li><a href="http://www.espncricinfo.com/"target="_blank" >Cricinfo </a></li>
-  <li><a href="http://www.mashable.com/"target="_blank" >Mashable</a></li>
+  <li><a href="http://www.espncricinfo.com/" target="_blank" >Cricinfo </a></li>
+  <li><a href="http://www.mashable.com/" target="_blank" >Mashable</a></li>
   </ul>
 </div>
 <!--

@@ -1,5 +1,3 @@
-<html>
-<head>
 <?php 
 include('header.php');
 ?>
@@ -24,5 +22,5 @@ Choose a file to upload:<input name="uploadedfile" type="file" /><br>
 </div><!--Content-->
 </div> <!--container-->
 <?php include('footer.php');?>
-
+</body>
 </html>

@@ -1,5 +1,4 @@
-<html>
-<head>
+
 <?php 
 include('header.php');
 ?>
@@ -21,5 +20,5 @@ include('header.php');
 </div><!--Content-->
 </div> <!--container-->
 <?php include('footer.php');?>
-</head>
 </body>
+</html>

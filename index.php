@@ -1,13 +1,12 @@
 <?php 
 include('header.php');
-
 ?>
 <div id="container">
 <div id="content">
 <div id="contentleft">
 <?php
 $name = $_GET['name'];
-//echo "<h3>Welcome to theplanetreports.com<strong> $name </strong>  <br>";
+echo "<h3>Welcome to theplanetreports.com<strong> $name </strong>  <br>";
 //echo date_default_timezone_get();
 date_default_timezone_set('Europe/Berlin');
 
@@ -46,7 +45,8 @@ echo "<a href='http://www.theplanetreports.com'>Homepage <br> </a>";
 </div> <!--container-->
 <?php include('footer.php');?>
 
-
+</body>
+</html>
 
 
 

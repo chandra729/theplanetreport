@@ -1,6 +1,5 @@
 <?php 
 include('header.php');
-
 ?>
 <div id="container">
 <div id="content">
@@ -44,8 +43,4 @@ if(!isset($_SESSION['totalmoney']))
 </div><!--Content-->
 </div> <!--container-->
 <?php include('footer.php');?>
-
-
-</body>
-</html>
 

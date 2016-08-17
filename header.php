@@ -41,8 +41,5 @@
 </div> <!--Navigation-->
 
 
-</body>
-</head>
-</html>
 
 

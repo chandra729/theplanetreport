@@ -1,5 +1,4 @@
-<html>
-<head>
+
 <?php 
 session_start();
 include('header.php');
@@ -34,5 +33,5 @@ User Numbers:<input type="text" name="quantity" /><br/>
 </div><!--Content-->
 </div> <!--container-->
 <?php include('footer.php');?>
-</head>
 </body>
+</html>

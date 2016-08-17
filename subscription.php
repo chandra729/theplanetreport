@@ -94,8 +94,9 @@ $dbh = null;
 </div><!--Content-->
 </div> <!--container-->
 <?php include('footer.php'); ?>
+</body>
 
-
+</html>
 
 
 

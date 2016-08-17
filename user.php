@@ -1,9 +1,7 @@
-<html>
-<head>
 <?php 
 include('header.php');
 ?>
-<body>
+
 <div id="container">
 <div id="content">
 <div id="contentleft">
@@ -21,5 +19,5 @@ include('header.php');
 </div><!--Content-->
 </div> <!--container-->
 <?php include('footer.php');?>
-</head>
 </body>
+</html>
