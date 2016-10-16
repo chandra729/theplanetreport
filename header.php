@@ -5,6 +5,8 @@
 
 <title>Welcome to theplanetreports.com|Home ofLatest News,worldnews,sports, and many more </title>
 
+<meta name="msvalidate.01" content="095F99ABCD8665F06D60F88BF54D80E7" />
+
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 
 <meta name="description" content="theplanetreports.com is your source for latest Breaking News,World News,Sports,Cricket and many more"/>

@@ -25,12 +25,12 @@ include('header.php');
 
        if($row[0]=='admin'){
        print  "welcome $row[0]. <br/>" ;
-       echo '<p><a href="http://theplanetreports.com/admin.php" target="_blank">'." For admin page" . '</a></p>';       
+       echo '<p><a href="http://theplanetreports.com/adminpage.php" target="_blank">'." For admin page" . '</a></p>';       
        }
 
        else
        print "welcome $row[0]. <br/>";
-       echo '<p><a href="http://theplanetreports.com/user.php" target="_blank">'." For user  page" . '</a></p>';       
+       echo '<p><a href="http://theplanetreports.com/userpage.php" target="_blank">'." For user  page" . '</a></p>';       
       
    }
 
